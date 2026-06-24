@@ -1,2 +1,8 @@
 # hello_world_2026
+
 テスト用リポジトリー
+
+aaaaaaaaaaaaaaaaa
+XXXXXXXXXXXXXXXXX
+
+こっち見んな
