@@ -3,6 +3,7 @@
 テスト用リポジトリー
 
 aaaaaaaaaaaaaaaaa
-XXXXXXXXXXXXXXXXX
 
-こっち見んな
+ccc
+
+XXXXXXXXXXXXXXXXX
